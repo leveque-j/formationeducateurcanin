@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+remote_theme: macrod68/jekyll-materialize-starter-template
+name: Formation Educateur Canin 
+plugins:
+  - jekyll-seo-tag
+title: Formation Educateur Canin 
